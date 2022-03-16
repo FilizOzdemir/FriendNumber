@@ -6,7 +6,7 @@ public class Main {
 
 	public static void main(String[] args) {
 		//Girilen sayilarin arkadas sayi olup olmadigini bulan prog.
-		//Arkadas sayi : iki sayi birbirinin kendisi haric bölenleri toplamina eþit ise bu sayilar arkadas sayidir.
+		//Arkadas sayi : iki sayi birbirinin kendisi haric bÃ¶lenleri toplamina esit ise bu sayilar arkadas sayidir.
 		//220-284
 		Scanner scan = new Scanner(System.in);
 		int number1total=0;//toplam
